@@ -1,2 +1,1 @@
 # GHOUL-Documentation
-# GHOUL-Documentation
